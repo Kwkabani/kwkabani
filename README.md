@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Python | Web Development | SQL | Machine Learning | OpenCV | Flask | TensorFlow | Scikit-Learn | Deep Learning | Computer Vision | API Development | Database Management | Data Analysis
 <!--
 **Kwkabani/kwkabani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
